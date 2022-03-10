@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![HitCount](https://hits.dwyl.com/KushidharReddyCh/KushidharReddyCh.svg?style=flat-square)](http://hits.dwyl.com/KushidharReddyCh/KushidharReddyCh)
 <!--
 **KushidharReddyCh/KushidharReddyCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
