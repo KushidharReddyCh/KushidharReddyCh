@@ -1,16 +1,27 @@
-### Hi there 👋
-[![HitCount](https://hits.dwyl.com/KushidharReddyCh/KushidharReddyCh.svg?style=flat-square)](http://hits.dwyl.com/KushidharReddyCh/KushidharReddyCh)
-<!--
-**KushidharReddyCh/KushidharReddyCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hello I am Kushidhar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+- Pursuing **Electronics and Communication Engineering in NIT ROURKELA**
+
+- 🌱 I’m currently doing **Competative Coding.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 📫 How to reach me **kushidhar0873@gmail.com**
+
+## 🚀 Tools and Technologies:
+- C++,Java,Python,JavaScript
+- Machine Learning
+- Deep Learning
+- Sklearn,Keras,Tensorflow,Open Cv
+- Data analysis
+- MERN stack
+
+
+## Connect with me:
+
+<p align="left">
+<a href = "https://https://www.linkedin.com/in/kushidhar-reddy-chinthala-606a19191"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+</p>
