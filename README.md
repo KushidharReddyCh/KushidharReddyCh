@@ -16,7 +16,7 @@
 - Deep Learning
 - Sklearn,Keras,Tensorflow,Open Cv
 - Data analysis
-- MERN stack
+- Basic Web Dev
 
 
 ## Connect with me:
