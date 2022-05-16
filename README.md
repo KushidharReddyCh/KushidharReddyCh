@@ -4,7 +4,7 @@
 ## 🙋‍♂️ About Me
 - Pursuing **Electronics and Communication Engineering in NIT ROURKELA**
 
-- 🌱 I’m currently doing **CP.**
+- 🌱 Intrested in Data Science
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
