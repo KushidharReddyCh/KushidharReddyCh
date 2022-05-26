@@ -6,7 +6,7 @@
 
 - 🌱 Intrested in Data Science
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Intrested in CP
 
 - 📫 How to reach me **kushidhar0873@gmail.com**
 
