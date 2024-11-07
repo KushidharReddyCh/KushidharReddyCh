@@ -3,11 +3,21 @@
 
 ## 🙋‍♂️ About Me
 
-I graduated from NIT Rourkela with a degree in Electronics and Communication Engineering in 2023. Currently, I am a Backend Developer at GreyOrange, specializing in Erlang, Python, and technologies such as Kafka, Elastic Stack, InfluxDB, and PostgreSQL. I also have strong skills in Java, with a focus on data structures, algorithms, and system design at both low and high levels.
+- Education: Graduated from NIT Rourkela in 2023 with a degree in Electronics and Communication Engineering (ECE)
 
-My experience includes internships at Advenio.ai as a Deep Learning Research Engineer, where I worked on advanced image compression, and at GoGlocal as an NLP Engineer, where I focused on natural language processing technologies.
+- Current Role: Backend Developer at GreyOrange
 
-Outside of work, I enjoy playing the violin, which helps me maintain a healthy work-life balance.
+  - Expertise in Erlang, Python
+  - Skilled in Kafka, Elastic Stack, InfluxDB, and PostgreSQL
+  - Strong foundation in Java for data structures, algorithms, and both low-level and high-level system design
+- Previous Experience:
+
+  -  Deep Learning Research Engineer Intern at Advenio.ai: Worked on advanced image compression techniques
+  - NLP Engineer Intern at GoGlocal: Focused on natural language processing technologies
+- Interests:
+
+  - Violinist, which helps in maintaining a balanced work-life routine
+
 
 - 📫 How to reach me **kushidhar0873@gmail.com**
 
