@@ -19,7 +19,7 @@
   - Violinist, which helps in maintaining a balanced work-life routine
 
 
-- 📫 How to reach me **kushidhar0873@gmail.com**
+- 📫 How to reach me **kushidhar.dev@gmail.com**
 
 
 ## Connect with me:
